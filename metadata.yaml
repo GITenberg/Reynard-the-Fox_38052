@@ -1,0 +1,37 @@
+_repo: Reynard-the-Fox_38052
+_version: 0.1.0
+alternative_title: Reynard the fox; or, The Ghost Heath run
+contributor:
+  illustrator:
+    agent_name: Moore-Park, Carton
+    alias: Moorepark, Carton
+    birthdate: 1877
+    deathdate: 1956
+    gutenberg_agent_id: '39223'
+    url: http://www.gutenberg.org/2009/agents/39223
+covers:
+- cover_type: archival
+  image_path: 38052-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Masefield, John
+    birthdate: 1878
+    deathdate: 1967
+    gutenberg_agent_id: '582'
+    url: http://www.gutenberg.org/2009/agents/582
+    wikipedia: http://en.wikipedia.org/wiki/John_Masefield
+description: ''
+gutenberg_issued: '2011-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38052'
+  lccn: '20020443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fox hunting -- Poetry'
+- !lcc 'PR'
+title: Reynard the Fox
+url: http://www.gutenberg.org/ebooks/38052
