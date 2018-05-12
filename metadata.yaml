@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/582
     wikipedia: http://en.wikipedia.org/wiki/John_Masefield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38052#Reynard-the-Fox
 gutenberg_issued: '2011-11-18'
 gutenberg_type: Text
 identifiers:
